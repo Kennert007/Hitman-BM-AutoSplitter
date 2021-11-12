@@ -64,7 +64,7 @@ split
 	(settings["level8"] && current.AllLevels == 1634 && old.AllLevels != current.AllLevels)||
 	(settings["level9"] && current.AllLevels == 2703 && old.AllLevels != current.AllLevels)||
 	(settings["level10"] && current.AllLevels == 3026 && old.AllLevels != current.AllLevels)||
-	(settings["level10"] && current.AllLevels == 3121 && old.AllLevels != current.AllLevels)||
+	(settings["level11"] && current.AllLevels == 3121 && old.AllLevels != current.AllLevels)||
 	(settings["level12"] && current.End == 825193317 && current.End != old.End && current.AllLevels == 4446)
 	);
 }
